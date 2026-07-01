@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 140">
+  <ellipse cx="60" cy="45" rx="50" ry="32" fill="#8FA3AD"/>
+  <ellipse cx="100" cy="55" rx="40" ry="26" fill="#8FA3AD"/>
+  <g stroke="#3A6EA5" stroke-width="6" stroke-linecap="round">
+    <line x1="45" y1="95" x2="35" y2="120"/>
+    <line x1="75" y1="95" x2="65" y2="120"/>
+    <line x1="105" y1="95" x2="95" y2="120"/>
+    <line x1="60" y1="105" x2="50" y2="130"/>
+    <line x1="90" y1="105" x2="80" y2="130"/>
+  </g>
+</svg>
